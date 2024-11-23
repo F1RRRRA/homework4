@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.29/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+E:/desktop/otus/homework4/build/_deps/sfml-src/src/SFML/Window/CMakeLists.txt

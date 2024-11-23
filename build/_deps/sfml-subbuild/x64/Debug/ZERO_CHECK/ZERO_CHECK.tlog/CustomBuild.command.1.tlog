@@ -1,0 +1,10 @@
+^E:\DESKTOP\OTUS\HOMEWORK4\BUILD\_DEPS\SFML-SUBBUILD\CMAKEFILES\0FA2B440E8D34738C3B2BB199379D6F8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SE:/desktop/otus/homework4/build/_deps/sfml-subbuild -BE:/desktop/otus/homework4/build/_deps/sfml-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/desktop/otus/homework4/build/_deps/sfml-subbuild/sfml-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.29/Modules/CMakeParseArguments.cmake
+E:/desktop/otus/homework4/build/_deps/sfml-src/cmake/CompilerWarnings.cmake
+E:/desktop/otus/homework4/build/_deps/sfml-src/cmake/Macros.cmake
+E:/desktop/otus/homework4/build/_deps/sfml-src/src/SFML/CMakeLists.txt
